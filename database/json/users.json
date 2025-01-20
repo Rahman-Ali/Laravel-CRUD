@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ali Baba",
+        "email": "ali.baba@example.com",
+        "age": 25,
+        "city": "Karachi"
+    },
+    {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "age": 30,
+        "city": "Lahore"
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "age": 28,
+        "city": "Islamabad"
+    },
+    {
+        "name": "Ahmed Khan",
+        "email": "ahmed.khan@example.com",
+        "age": 32,
+        "city": "Peshawar"
+    },
+    {
+        "name": "Insha Rehman",
+        "email": "insha@example.com",
+        "age": 20,
+        "city": "Islamabad"
+    },
+    {
+        "name": "Zakir",
+        "email": "zakir@example.com",
+        "age": 18,
+        "city": "Moro"
+    },
+    {
+        "name": "Arman",
+        "email": "arman@example.com",
+        "age": 15,
+        "city": "Karachi"
+    },
+    {
+        "name": "Eman Rehman",
+        "email": "eman@example.com",
+        "age": 22,
+        "city": "Hyderabad"
+    }
+]
