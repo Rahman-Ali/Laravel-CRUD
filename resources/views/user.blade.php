@@ -8,7 +8,7 @@
     
     <style>
         body{
-            background-color: rgb(239, 239, 239);
+            background-color: white;
             
         }
         .custom-size {
